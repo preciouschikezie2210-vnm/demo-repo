@@ -11,3 +11,7 @@ How to structure a project
 How to push code to GitHub
 
 How to clone a repository
+
+## Local Development
+
+1. open index.html in your browser.
