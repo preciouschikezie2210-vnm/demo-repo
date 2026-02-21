@@ -14,6 +14,4 @@ How to clone a repository
 
 ## Local Development
 
-## Urban Development
-
 1. Open index.html in your browser.
